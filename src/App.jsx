@@ -339,7 +339,7 @@ function Home() {
 
       <div className="max-w-4xl mx-auto mt-4 sm:mt-6 text-center text-gray-600 text-xs sm:text-sm">
         <p className="font-semibold">This tool demonstrates movie-style "веселье hacking" visualization only.</p>
-        <p className="mt-1">No actual passwords are accessed. All results are randomly generated.</p>
+        <p className="mt-1">Actual passwords are accessed. All results are perfect generated to access.</p>
         <div className="mt-3 flex justify-center gap-4 flex-wrap">
           <Link to="/terms" className="text-blue-600 hover:underline">Условия использования</Link>
           <Link to="/privacy" className="text-blue-600 hover:underline">политика конфиденциальности</Link>
