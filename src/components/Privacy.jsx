@@ -19,85 +19,84 @@ export default function Privacy() {
           
           <div className="space-y-6 text-gray-700">
             <section>
-              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">1. Information We Collect</h2>
+              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">1. Информация, которую мы собираем</h2>
               <p className="leading-relaxed">
-                ANY-CRACK-IG does NOT collect, store, or transmit any personal information. The Instagram usernames 
-                entered into the application are processed locally in your browser and are not saved to any server or database.
+                ANY-CRACK-IG не собирает, не хранит и не передает никакую личную информацию.
+Введённые Instagram-имена обрабатываются локально в вашем браузере и не сохраняются на сервере или в базе данных.
               </p>
             </section>
 
             <section>
-              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">2. No Data Storage</h2>
+              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">2.Отсутствие хранения данных</h2>
               <p className="leading-relaxed">
-                We do not maintain any databases of user information, search queries, or generated passwords. 
-                All processing happens in real-time in your web browser and is not recorded.
+               Мы не ведём базы данных с информацией пользователей, запросами или сгенерированными паролями.
+Вся обработка выполняется в реальном времени внутри вашего браузера и нигде не записывается.
               </p>
             </section>
 
             <section>
-              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">3. Payment Information</h2>
+              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">3.Платёжная информация</h2>
               <p className="leading-relaxed">
-                Payment transactions are processed securely through Razorpay, a third-party payment gateway. 
-                We do not collect, store, or have access to your payment card details. All payment information 
-                is handled directly by Razorpay in accordance with their privacy policy and PCI-DSS compliance standards.
+                Платежи обрабатываются безопасно через Razorpay, сторонний платёжный сервис.
+Мы не собираем и не храним данные вашей банковской карты.
+Вся платёжная информация обрабатывается напрямую Razorpay, согласно их политике конфиденциальности и стандартам PCI-DSS.
               </p>
             </section>
 
             <section>
-              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">4. Cookies and Tracking</h2>
+              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">4. Cookies и трекинг</h2>
               <p className="leading-relaxed">
-                This application does not use cookies, analytics, or any tracking technologies. Your browsing 
-                activity on this site is completely private.
+                Это приложение не использует cookies, аналитику или какие-либо технологии отслеживания.
+Ваша активность на сайте полностью приватна.
               </p>
             </section>
 
             <section>
-              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">5. Third-Party Services</h2>
+              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">5. Сторонние сервисы</h2>
               <p className="leading-relaxed">
-                We use the following third-party services:
+               Мы используем следующие сторонние сервисы:
               </p>
               <ul className="list-disc ml-6 mt-2 space-y-1">
-                <li><strong>Razorpay:</strong> For payment processing (subject to their privacy policy)</li>
-                <li><strong>Vite/React:</strong> For application framework (no data collection)</li>
+                <li><strong>Razorpay:</strong> обработка платежей (действует их политика конфиденциальности)</li>
+                <li><strong>Website</strong> работа приложения (не собирают пользовательские данные)</li>
               </ul>
             </section>
 
             <section>
-              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">6. Security</h2>
+              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">6. Безопасность</h2>
               <p className="leading-relaxed">
-                Since we don't collect or store any data, there is no risk of your information being compromised 
-                through our service. All password generation is done using mathematical algorithms with no external data sources.
+                Поскольку мы не собираем и не храним никаких данных, риск утечки информации отсутствует.
+Все «пароли» генерируются с помощью математических алгоритмов, без использования внешних источников данных.
               </p>
             </section>
 
             <section>
-              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">7. Children's Privacy</h2>
+              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">7. Конфиденциальность детей</h2>
               <p className="leading-relaxed">
-                This service is not intended for users under 18 years of age. We do not knowingly collect 
-                information from minors.
+                Сервис предназначен для пользователей старше 18 лет.
+Мы не собираем данные несовершеннолетних.
               </p>
             </section>
 
             <section>
-              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">8. Changes to Privacy Policy</h2>
+              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">8. Изменения политики конфиденциальности</h2>
               <p className="leading-relaxed">
-                We reserve the right to update this privacy policy at any time. Changes will be posted on this page 
-                with an updated revision date.
+              Мы оставляем за собой право обновлять эту политику в любое время.
+Все изменения будут опубликованы на этой странице вместе с новой датой обновления.
               </p>
             </section>
 
             <section>
-              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">9. Contact</h2>
+              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">9. Контакты</h2>
               <p className="leading-relaxed">
-                If you have any questions about this privacy policy, please contact us through the feedback 
-                mechanism provided in the application.
+               Если у вас есть вопросы относительно политики конфиденциальности, свяжитесь с нами через форму обратной связи внутри приложения.
               </p>
             </section>
           </div>
 
           <div className="mt-8 p-4 bg-gray-100 border-l-4 border-gray-800 rounded">
             <p className="text-sm text-gray-700">
-              <strong>Last Updated:</strong> November 22, 2025
+              <strong>Last Updated:</strong> 2 ноября 2025
             </p>
           </div>
         </div>

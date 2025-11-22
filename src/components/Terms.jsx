@@ -19,61 +19,63 @@ export default function Terms() {
           
           <div className="space-y-6 text-gray-700">
             <section>
-              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">1. Educational Purpose Only</h2>
+              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">1. Только в образовательных целях</h2>
               <p className="leading-relaxed">
-                ANY-CRACK-IG is a simulated educational tool designed for entertainment and learning purposes only. 
-                This application does NOT crack actual passwords, access real accounts, or breach any security systems.
+               ANY-CRACK-IG — это имитационный обучающий инструмент, созданный исключительно для развлечения и учебных целей.
+Это приложение НЕ взламывает реальные пароли, не получает доступ к настоящим аккаунтам и не нарушает какие-либо системы безопасности.
               </p>
             </section>
 
             <section>
-              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">2. No Real Password Access</h2>
+              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">2. Нет доступа к реальным паролям</h2>
               <p className="leading-relaxed">
-                All "passwords" displayed by this application are randomly generated based on mathematical algorithms. 
-                They are NOT real passwords and have NO connection to any actual Instagram accounts or user credentials.
+                Все «пароли», отображаемые в этом приложении, генерируются случайным образом на основе математических алгоритмов.
+Они не являются реальными паролями и не имеют никакой связи с настоящими аккаунтами Instagram или пользовательскими данными.
               </p>
             </section>
 
             <section>
-              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">3. Legal Compliance</h2>
+              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">3. Соответствие законам</h2>
               <p className="leading-relaxed">
-                Users must not attempt to use this tool or its concepts for any illegal activities, including but not limited to:
+               Пользователям запрещено использовать этот инструмент или его концепцию для любых незаконных действий, включая, но не ограничиваясь:
               </p>
               <ul className="list-disc ml-6 mt-2 space-y-1">
-                <li>Unauthorized access to computer systems or accounts</li>
-                <li>Identity theft or impersonation</li>
-                <li>Privacy violations</li>
-                <li>Any form of cybercrime</li>
+                <li>Несанкционированным доступом к компьютерным системам или аккаунтам</li>
+                <li>Кражей личности или выдачей себя за другого</li>
+                <li>Нарушением приватности</li>
+                <li>Любой формой киберпреступлений</li>
               </ul>
             </section>
 
             <section>
-              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">4. Payment Service</h2>
+              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">4. Платные услуги</h2>
               <p className="leading-relaxed">
-                The "decode password" feature is a simulated premium service. Payment processing is handled by Razorpay. 
-                The decoded password is also randomly generated and has no connection to real credentials.
+               Функция «раскодировать пароль» является симулированной премиум-услугой.
+Обработка платежей осуществляется через Razorpay.
+Выдаваемый «раскодированный пароль» также генерируется случайным образом и не связан с реальными данными.
               </p>
             </section>
 
             <section>
-              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">5. Disclaimer</h2>
+              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">5. Отказ от ответственности</h2>
               <p className="leading-relaxed">
-                The creators and operators of ANY-CRACK-IG are not responsible for any misuse of this tool. 
-                By using this service, you acknowledge that this is purely educational and agree not to use it for any illegal purposes.
+                Создатели и операторы ANY-CRACK-IG не несут ответственности за любое неправильное использование этого инструмента.
+Используя сервис, вы подтверждаете, что понимаете его исключительно образовательный характер и соглашаетесь не использовать его в незаконных целях.
               </p>
             </section>
 
             <section>
-              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">6. Age Restriction</h2>
+              <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3">6.Возрастное ограничение</h2>
               <p className="leading-relaxed">
-                Users must be 18 years or older to use this service. By using this tool, you confirm that you meet this age requirement.
+               Пользователь должен быть 18 лет или старше, чтобы использовать этот сервис.
+Используя этот инструмент, вы подтверждаете, что соответствуете этому возрастному требованию.
               </p>
             </section>
           </div>
 
           <div className="mt-8 p-4 bg-gray-100 border-l-4 border-gray-800 rounded">
             <p className="text-sm text-gray-700">
-              <strong>Last Updated:</strong> November 22, 2025
+              <strong>Last Updated:</strong> 2 ноября 2025
             </p>
           </div>
         </div>
