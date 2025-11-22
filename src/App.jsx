@@ -97,7 +97,7 @@ function Home() {
       setDecodedPassword(null);
 
       addLog('> Instagram ID Verified ✓', 100);
-      addLog('> Initializing ANY-CRACK-IG v2.1.4...', 400);
+      addLog('> Инициализация ANY-CRACK-IG v2.1.4...', 400);
       addLog('> Loading encryption modules...', 700);
       addLog('> Connecting to Instagram database...', 1100);
       addLog(`> Target ID: @${userId}`, 1500);
@@ -170,7 +170,7 @@ function Home() {
         <div>
           <h3 className="font-bold text-red-800 text-base sm:text-lg">⚠️ PASSWORD-CRACKING TOOL</h3>
           <p className="text-red-700 text-xs sm:text-sm mt-1">
-            This is a SIMULATED.  It does actually crack passwords or breach any security in IG. All "passwords" are actual generated based on the input. Never attempt actual unauthorized access to systems.
+            This is a МОДЕЛИРОВАННЫЕ.  It does  нет actually crack passwords or breach any security in IG. Все «пароли» фактически генерируются на основе введенных данных.. Never attempt actual unauthorized access to systems.
           </p>
         </div>
       </div>
@@ -297,7 +297,7 @@ function Home() {
                   <div className="bg-gradient-to-r from-yellow-50 to-orange-50 border-2 border-yellow-500 rounded-lg p-3 sm:p-4">
                     <h3 className="font-bold text-yellow-800 text-base sm:text-lg mb-2">🔓 Decode Password</h3>
                     <p className="text-yellow-700 text-xs sm:text-sm mb-3">
-                      The recovered password is encoded. Unlock the real decoded password with special characters and numbers for just ₹49!
+                      The recovered password is encoded. Unlock the real decoded password with special characters and numbers for just $0.55!
                     </p>
                     <button
                       onClick={handleDecodePayment}
@@ -333,16 +333,16 @@ function Home() {
 
         <div className="p-3 sm:p-4 bg-gray-900 text-gray-400 text-center text-xs sm:text-sm">
           <Lock size={14} className="inline mr-2" />
-          Remember: This is a SIMULATION. Real password cracking is illegal and unethical.
+          Remember: This is a МОДЕЛИРОВАНИЕ. Real password cracking is illegal and unethical.
         </div>
       </div>
 
       <div className="max-w-4xl mx-auto mt-4 sm:mt-6 text-center text-gray-600 text-xs sm:text-sm">
-        <p className="font-semibold">This tool demonstrates movie-style "hacking" visualization only.</p>
+        <p className="font-semibold">This tool demonstrates movie-style "веселье hacking" visualization only.</p>
         <p className="mt-1">No actual passwords are accessed. All results are randomly generated.</p>
         <div className="mt-3 flex justify-center gap-4 flex-wrap">
-          <Link to="/terms" className="text-blue-600 hover:underline">Terms of Service</Link>
-          <Link to="/privacy" className="text-blue-600 hover:underline">Privacy Policy</Link>
+          <Link to="/terms" className="text-blue-600 hover:underline">Условия использования</Link>
+          <Link to="/privacy" className="text-blue-600 hover:underline">политика конфиденциальности</Link>
         </div>
       </div>
     </div>
