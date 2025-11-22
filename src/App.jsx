@@ -180,7 +180,7 @@ function Home() {
           <div className="flex items-center gap-2 sm:gap-3">
             <Shield size={28} className="text-red-500 sm:w-8 sm:h-8" />
             <div>
-              <h1 className="text-2xl sm:text-3xl font-bold tracking-wider">ANY-CRACK-IG</h1>
+              <h1 className="text-2xl sm:text-3xl font-bold tracking-wider">ENCRYPT-IG</h1>
               <p className="text-gray-400 text-xs sm:text-sm">Instagram Password Recovery Tool v2.1.4</p>
             </div>
           </div>
