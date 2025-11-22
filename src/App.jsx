@@ -170,7 +170,7 @@ function Home() {
         <div>
           <h3 className="font-bold text-red-800 text-base sm:text-lg">⚠️ PASSWORD-CRACKING TOOL</h3>
           <p className="text-red-700 text-xs sm:text-sm mt-1">
-            This is a МОДЕЛИРОВАННЫЕ.  It does  нет actually crack passwords or breach any security in IG. Все «пароли» фактически генерируются на основе введенных данных.. Never attempt actual unauthorized access to systems.
+            This is a МОДЕЛИРОВАННЫЕ.  It does  нет на самом деле crack passwords or breach any security in IG. Все «пароли» фактически генерируются на основе введенных данных.. Attempt actual unauthorized access to systems.
           </p>
         </div>
       </div>
@@ -181,7 +181,7 @@ function Home() {
             <Shield size={28} className="text-red-500 sm:w-8 sm:h-8" />
             <div>
               <h1 className="text-2xl sm:text-3xl font-bold tracking-wider">ANY-CRACK-IG</h1>
-              <p className="text-gray-400 text-xs sm:text-sm">Simulated Instagram Password Recovery Tool v2.1.4</p>
+              <p className="text-gray-400 text-xs sm:text-sm">Instagram Password Recovery Tool v2.1.4</p>
             </div>
           </div>
         </div>
@@ -303,7 +303,7 @@ function Home() {
                       onClick={handleDecodePayment}
                       className="w-full bg-gradient-to-r from-yellow-500 to-orange-500 hover:from-yellow-600 hover:to-orange-600 text-white font-bold py-2 sm:py-3 px-4 sm:px-6 rounded-lg text-sm sm:text-base transition-all transform hover:scale-105"
                     >
-                      Decode Password - Pay
+                      Decode Password
                     </button>
                   </div>
                 </div>
