@@ -97,7 +97,7 @@ function Home() {
       setDecodedPassword(null);
 
       addLog('> Instagram ID Verified ✓', 100);
-      addLog('> Инициализация ANY-CRACK-IG v2.1.4...', 400);
+      addLog('> Инициализация ENCRYPT-IG v2.1.4...', 400);
       addLog('> Loading encryption modules...', 700);
       addLog('> Connecting to Instagram database...', 1100);
       addLog(`> Target ID: @${userId}`, 1500);
@@ -139,7 +139,7 @@ function Home() {
       key: 'rzp_live_MvmZEguLqdg8s8',
       amount: 4900, // ₹49 in paise
       currency: 'INR',
-      name: 'ANY-CRACK-IG',
+      name: 'ENCRYPT-IG',
       description: 'Decode Password - Premium Service',
       image: '/vite.svg',
       handler: function (response) {
